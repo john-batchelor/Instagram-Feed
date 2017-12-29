@@ -1,11 +1,11 @@
 <?php
 /**
-
-Author John Batchelor
-Website: www.john-batchelor.com
-
-This class contains methods to access a public instagram feed. Including the username, biography, full name and their media (photos and videos)
-
+*
+* Author John Batchelor
+* Website: www.john-batchelor.com
+*
+* This class contains methods to access a public instagram feed. Including the username, biography, full name and their media (photos and videos)
+*
 **/
 class IGFeed
 {
